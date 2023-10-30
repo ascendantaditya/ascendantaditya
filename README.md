@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ascendantaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-###🏆Hactober Fest 2K23
+## 🏆 Hacktoberfest 2k23
 ![An image of @ascendantaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ascendantaditya)
 
 
