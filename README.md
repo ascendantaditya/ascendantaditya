@@ -15,10 +15,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ascendantaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+###🏆Hactober Fest 2K23
+![An image of @ascendantaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ascendantaditya)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ascendantaditya&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
