@@ -17,9 +17,12 @@
 </div>
 
 
-
 ## #30NitesOfCode:
-  ![@1dvlpr #30NitesOfCode](https://www.codedex.io/api/petStatus?user=1dvlpr)
+
+<div align="center">
+  <img src="https://www.codedex.io/api/petStatus?user=1dvlpr" alt="@1dvlpr #30NitesOfCode">
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ascendantaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
