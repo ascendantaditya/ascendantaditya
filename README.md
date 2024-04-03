@@ -14,7 +14,6 @@
 
 
 ## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@1dvlpr/30-nites-of-code)  
   ![@1dvlpr #30NitesOfCode](https://www.codedex.io/api/petStatus?user=1dvlpr)
 
 ## 🏆 GitHub Trophies
