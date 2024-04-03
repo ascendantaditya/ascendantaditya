@@ -12,6 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ascendantaditya&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ascendantaditya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@1dvlpr/30-nites-of-code)  
+  ![@1dvlpr #30NitesOfCode](https://www.codedex.io/api/petStatus?user=1dvlpr)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ascendantaditya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
