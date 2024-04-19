@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,opencv,figma,matplotlib,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,linux,appwrite,.net,java,kotlin,mysql,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,opencv,figma,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,linux,appwrite,java,kotlin,mysql,androidstudio" /><br>
 </div>
 
 <br/>
@@ -51,6 +51,13 @@
   
   <br/><br/><br/>
 </div>
+
+## #30NitesOfCode:
+
+<div align="center">
+  <img src="https://www.codedex.io/api/petStatus?user=1dvlpr" alt="@1dvlpr #30NitesOfCode">
+</div>
+
 
 <hr/>
 
@@ -69,8 +76,7 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+## 🏆 Hacktoberfest 2k23
+![An image of @ascendantaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ascendantaditya)
 
 <br/>
