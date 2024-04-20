@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Tomar!;" />
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Full Stack WEB3 Blockchain Development**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ascendantaditya/pfolio/issues)**
 
 ⚡ Fun fact **If you could sit near me , I'll for sure give you The FOMO**
 
