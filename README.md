@@ -52,13 +52,6 @@
   <br/><br/><br/>
 </div>
 
-## #30NitesOfCode:
-
-<div align="center">
-  <img src="https://www.codedex.io/api/petStatus?user=1dvlpr" alt="@1dvlpr #30NitesOfCode">
-</div>
-
-
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
