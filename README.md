@@ -64,6 +64,8 @@
 <br/><br/>
 <br/>
 
+<hr/>
+
 ## 🏆 Hacktoberfest 2k23
 ![An image of @ascendantaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ascendantaditya)
 
