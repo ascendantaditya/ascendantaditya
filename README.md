@@ -70,3 +70,12 @@
 ![An image of @ascendantaditya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ascendantaditya)
 
 <br/>
+
+<hr/>
+
+<div style="text-align: center;">
+  <a href="https://app.daily.dev/1dvlpr">
+    <img src="https://api.daily.dev/devcards/v2/4gVFczLW4cEaTgenY0HnF.png?r=xk6&type=wide" width="652" alt="Aditya Tomar's Dev Card"/>
+  </a>
+</div>
+
