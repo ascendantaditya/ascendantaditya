@@ -1,0 +1,12 @@
+            - name: Random RickRoll
+  # You may pin to the exact commit or the version.
+  # uses: TejasvOnly/random-rickroll@f3c4666e06fe75516d208fad01bfcbde7b37ce1e
+  uses: TejasvOnly/random-rickroll@v1.0
+  with:
+    # How many people out of hundred should be rickrolled (set this to 100 if you want to rickroll everyone)
+    percentage: 
+    # Comment message when not rickrolling (Optional : No comment would be made if not provided)
+    message: # optional, default is 
+    # Github token of the repository
+    GITHUB_TOKEN: 
+          
