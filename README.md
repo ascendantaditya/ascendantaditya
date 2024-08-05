@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Tomar!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate ongoing software developer from India</h3>
 
 <br/>
 
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,opencv,figma,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,linux,appwrite,java,kotlin,mysql,androidstudio" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,opencv,figma,git,bash" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,linux,appwrite,java,mysql" /><br>
 </div>
 
 <br/>
