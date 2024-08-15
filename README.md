@@ -54,15 +54,15 @@
 
 <hr/>
 
-<h1 align="center">📊 GitHub Stats:</h1>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ascendantaditya&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascendantaditya&theme=great-gatsby&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascendantaditya&theme=great-gatsby&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div>
 
+<div align="center">
+  <h2>📊 GitHub Stats:</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=ascendantaditya&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ascendantaditya&theme=blue-green&hide_border=false" alt="GitHub Streak Stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ascendantaditya&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 <br/><br/>
 <br/>
 
