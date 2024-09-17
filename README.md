@@ -24,19 +24,6 @@ will_learn: ["Golang (Backend)"]
 hobbies: ["Running", "Sleeping", "Gratitude Living", "IoT"]
 ```
 
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **Problem Solving Skills**
- 
- 🌱 I’m currently learning **Full Stack WEB3 Blockchain Development**
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ascendantaditya/pfolio/issues)**
-
-⚡ Fun fact **If you could sit near me , I'll for sure give you The FOMO**
-
  </div>
  
 <div align="center"> 
