@@ -44,7 +44,7 @@ hobbies: ["Running", "Sleeping", "Gratitude Living", "IoT"]
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,opencv,figma,git,bash" />
-    <img src="https://skillicons.dev/icons?i=python,javascript,linux,appwrite,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,linux,golang,java,mysql" /><br>
 </div>
 
 <br/>
