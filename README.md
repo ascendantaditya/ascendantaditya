@@ -6,7 +6,7 @@ located_in: 18.5204° N latitude and 73.8567° E longitude, India
 from: 26.2183° N latitude and 78.1828° E longitude. (India)
 job: Machine Learning Engineer Intern(Secta Labs)
 education: ["Master's in Datascience", "Bachelor's of Technology in Computer Science"]
-company: IIITB ,IITM ,VITV
+company: IIITB ,IITM ,VITV , KVS
 past/present experiences: 
   - ["Frontend Engineer", "Aurax.in", "Internship", "Hybrid", "2023-2024"]
   - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Secta Labs", "Fully Remote", "Present"]
