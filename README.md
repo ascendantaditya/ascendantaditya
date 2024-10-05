@@ -20,8 +20,8 @@ fields_of_interests: ["CNN", "CTF'S", "LINUX", "VIDEO MAKING",
 technical_background: ["Cryptography", "Vulnerablity", 
                        "Penetration", "Deep Learning", "Automated Planning"]
 currently_learning: ["ML/DL", "Ethical Hacking", "DSA", "Backend"]
-will_learn: ["Golang (Backend)"]
-hobbies: ["Running", "Sleeping", "Gratitude Living", "IoT"]
+done_learning: ["Golang (Backend)"]
+hobbies: ["Running", "Sleeping", "Gratitude Living", "Muay Thai"]
 ```
 
  </div>
